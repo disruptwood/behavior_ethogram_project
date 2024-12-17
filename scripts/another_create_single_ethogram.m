@@ -1,6 +1,5 @@
 function another_create_single_ethogram(behaviorData, flyIndex, behaviorLabels, scheme)
     % another_plot_single_ethogram: Plots a single ethogram using a color scheme 
-    % inspired by activity, exploration, and sociality metrics.
     %
     % Inputs:
     %   - behaviorData: Struct containing binary matrices [numFrames].
