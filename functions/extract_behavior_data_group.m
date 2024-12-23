@@ -1,4 +1,4 @@
-function [behaviorData, numFlies, minFrames] = extract_behavior_data_group(filesNames)
+ function [behaviorData, numFlies, minFrames] = extract_behavior_data_group(filesNames)
     % extract_behavior_data_group: Extracts binary behavior matrices for all flies and behaviors.
     % filesNames: Paths to the scores_*.mat files
 
